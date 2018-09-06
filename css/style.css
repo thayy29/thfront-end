@@ -1,0 +1,57 @@
+.navbar-brand {
+
+  border-radius: 10px;
+  border: 2px solid;
+  font-weight: bold;
+  font-size: 50px;
+  color: #000000;
+
+}
+
+ul
+.nav .navbar-nav .navbar-right {
+    color: #000000;
+}
+
+.navbar-default {
+  background-color: #FFFFFF;
+}
+
+/* Main content */
+
+h6,
+.change1 {
+  color: #FF003B;
+  font-weight: bold;
+}
+
+h6,
+.change2 {
+  color: #2290FF;
+  font-weight: bold;
+}
+
+h6,
+.change3 {
+  color: #3ED162;
+  font-weight: bold;
+}
+
+
+h6,
+.change4 {
+  color: #FF7D49;
+  font-weight: bold;
+}
+
+h6,
+.change5 {
+  color: #2290FF;
+  font-weight: bold;
+}
+
+h6,
+.change6 {
+  color: #3ED162;
+  font-weight: bold;
+}
